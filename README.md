@@ -1,6 +1,6 @@
 # firebase_login
 
-A new Flutter project.
+Flutter login Google account
 
 ## Getting Started
 
